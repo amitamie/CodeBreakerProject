@@ -16,5 +16,5 @@ answer.value = Math.floor(Math.random() * 10000).toString();
 }
 
 function setMessage(Textmessage) {
-    var message.inner.html(Textmessage)
+    let message.inner.html(Textmessage)
 }
