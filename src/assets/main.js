@@ -14,3 +14,7 @@ answer.value = Math.floor(Math.random() * 10000).toString();
         answer.value = "0" + answer.value;
     }
 }
+
+function setMessage(Textmessage) {
+    var message.inner.html(Textmessage)
+}
